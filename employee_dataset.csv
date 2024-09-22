@@ -1,0 +1,101 @@
+Employee ID,Name,Age,Department,Salary,Start Date,Country
+7973,Amber Garza,22,Finance,42121,21-03-2024,Liechtenstein
+7125,Jennifer Smith,25,Finance,85353,04-02-2019,French Southern Territories
+7395,Daniel Jenkins,25,Marketing,43886,17-09-2019,Chad
+6618,Wesley Weaver,31,Finance,81690,13-09-2017,India
+8552,Charles Boyd,41,Sales,115523,11-10-2017,Ireland
+1044,April Stafford,43,IT,45181,25-01-2020,British Indian Ocean Territory (Chagos Archipelago)
+4572,Brandy Hall,58,Marketing,83349,21-11-2018,Somalia
+2758,Jose Velez,45,Finance,116578,26-03-2023,Afghanistan
+3986,Timothy Logan,28,IT,82914,03-01-2019,Bosnia and Herzegovina
+6511,Crystal Stone,46,Marketing,110744,17-04-2018,Georgia
+8122,Edward Kennedy,46,IT,111713,28-09-2021,Guernsey
+4425,Angela Black,34,Sales,103720,01-11-2019,Guadeloupe
+3087,Walter Stephens,23,Marketing,110399,20-08-2015,Jordan
+9966,Joseph Smith,45,Finance,87394,11-09-2014,Japan
+2220,Lauren Gutierrez,46,HR,113925,07-03-2019,Afghanistan
+3761,Melissa Long,39,Finance,40894,24-04-2022,Botswana
+5615,Jessica Kirby,59,Marketing,103413,30-08-2016,Guyana
+3047,Amanda Peterson,47,Finance,88208,08-02-2021,Luxembourg
+6979,Olivia Howell,35,HR,70142,09-07-2018,El Salvador
+8080,Tiffany Brown,30,HR,72904,22-12-2021,San Marino
+3565,Max Sanchez,31,HR,66813,02-01-2017,Greenland
+2909,Shelia Wu,42,Finance,79041,18-03-2023,France
+7363,Jeremy Lee,38,Marketing,99601,24-01-2017,Vanuatu
+4608,Scott Smith,27,Finance,119224,28-06-2017,Jersey
+1853,Barry Mckinney,37,HR,108955,04-11-2016,Zimbabwe
+3260,Shannon Mclean,22,Sales,46004,19-07-2018,Austria
+1630,Maria Leonard,40,HR,75620,10-09-2015,Belarus
+1681,Tiffany Garcia,57,HR,82521,12-12-2020,Central African Republic
+8056,Colleen Martinez,46,Marketing,97191,17-08-2020,Faroe Islands
+2455,Leslie Logan,51,Finance,97852,19-10-2022,Bahrain
+3952,Ian Wallace,41,Marketing,62302,17-08-2017,British Indian Ocean Territory (Chagos Archipelago)
+7780,Aaron Bell DDS,41,Finance,92513,03-04-2015,Venezuela
+5289,Austin Thompson,36,HR,94545,03-03-2022,Zimbabwe
+6995,Mrs. Nancy Phillips,54,HR,60989,16-05-2020,Yemen
+4379,Valerie Cruz,23,HR,42562,08-12-2018,Hungary
+5001,Donna Garcia,31,Finance,62597,07-11-2020,Mongolia
+5741,Timothy Lynch,54,HR,65484,16-01-2020,Jordan
+3024,Jordan Mclean,53,Marketing,118709,29-05-2017,Antigua and Barbuda
+9020,Mrs. Jennifer Larson DVM,32,Marketing,86402,24-03-2022,Bouvet Island (Bouvetoya)
+8872,Andrew Duncan,45,HR,51605,02-11-2018,Jersey
+6459,Daisy Gonzalez,57,Sales,105483,18-02-2018,Mexico
+7250,Patrick Beck,33,Finance,101073,01-02-2015,Nigeria
+3900,Gene Schneider,50,Sales,62571,14-09-2020,Saint Barthelemy
+6154,Joshua Murphy,56,HR,94355,14-09-2021,Finland
+2915,Alexander Lopez,22,Sales,73201,29-12-2023,Georgia
+7689,Angela Maxwell,22,Finance,118633,16-08-2015,Mongolia
+3630,Derek Carroll,58,Finance,84889,30-05-2022,Eritrea
+6092,Angela Gonzalez,27,Sales,119835,05-12-2017,Latvia
+3582,Kelly Wilkerson,39,IT,56363,14-04-2023,Qatar
+6210,Lisa Bean,37,Finance,64785,01-01-2018,Paraguay
+5161,Daniel Floyd,26,HR,95913,21-11-2017,Mauritius
+1855,Michael May,53,HR,103418,05-12-2022,Dominica
+7868,Latoya Hess,23,HR,76736,06-02-2016,Puerto Rico
+4449,Misty Walsh,23,IT,106576,18-06-2015,Norway
+1473,Kyle James,57,HR,111786,04-02-2018,Montserrat
+3209,John Gonzalez,33,Sales,97508,30-12-2019,Niue
+6948,Rachel Burns,40,IT,47704,30-12-2022,United States of America
+6709,John Morrow,49,Finance,112308,20-10-2023,Croatia
+4564,Rebecca Hudson,22,IT,82179,03-11-2020,Saint Vincent and the Grenadines
+7091,Scott Clarke,36,HR,65907,29-08-2017,Cayman Islands
+3625,Amber Phillips,57,HR,85192,20-12-2022,Belize
+4188,Shannon Giles,34,Sales,49144,15-10-2017,Kyrgyz Republic
+5387,Lori Barber,42,Finance,67741,04-02-2023,Barbados
+4707,Brandon Boyd,33,Finance,102551,02-10-2016,Ireland
+3746,Kim Harrison,26,IT,42195,05-05-2022,Netherlands
+9537,Paul Baldwin,28,HR,44680,14-06-2017,Jamaica
+7587,Anthony Curtis,26,HR,95751,25-08-2018,Oman
+8737,Dana Johnston,25,IT,65687,16-09-2014,Uruguay
+7227,Amy Moreno,34,Marketing,92237,01-10-2020,Bosnia and Herzegovina
+1482,Maxwell Kirby PhD,58,HR,78008,28-02-2024,Syrian Arab Republic
+1010,Thomas Bryant,36,Finance,50100,09-07-2021,Sao Tome and Principe
+5265,Kimberly Ryan,37,IT,100343,27-03-2020,Egypt
+2908,Gregory Gordon,42,IT,83723,19-05-2023,Saint Kitts and Nevis
+9132,Emily Smith,57,Sales,94180,05-09-2022,Somalia
+9116,Daniel Adams,45,HR,97625,10-03-2019,Cameroon
+1943,Lauren Miller,37,HR,85856,21-02-2015,Namibia
+6193,Bruce Blankenship,35,Finance,117582,19-11-2023,Brunei Darussalam
+7156,Allison Rodriguez,43,Marketing,60950,24-06-2019,Dominica
+3643,Mark Wolf,27,Finance,49500,14-12-2017,Antigua and Barbuda
+8846,Jason Mitchell,57,Marketing,92548,27-05-2024,Guernsey
+9696,Angela Gardner MD,22,Sales,86614,26-08-2019,Italy
+4184,Gerald Mccarthy,53,Finance,63418,12-08-2020,Chile
+7071,Adam Ingram,27,Finance,89747,17-08-2022,Botswana
+6128,Laura Johnson,52,HR,73415,06-04-2023,Niger
+6284,Laura Williams,22,Finance,52232,14-02-2015,Kyrgyz Republic
+8886,Robert Rodgers,58,HR,56957,01-09-2021,Liberia
+3683,Randy Erickson,56,Sales,97600,27-04-2018,Venezuela
+2042,Fernando Smith,51,Marketing,67784,13-04-2020,Bolivia
+6396,Mr. Ian Graham,25,Finance,84239,07-03-2015,Seychelles
+6441,Brian Novak,56,Sales,79335,12-10-2015,Aruba
+5005,Kimberly Doyle,35,HR,77212,22-10-2019,Turks and Caicos Islands
+3693,Ian Duran,43,Marketing,92141,27-02-2015,Nauru
+7826,Desiree Martinez,31,Finance,102746,12-12-2018,Kyrgyz Republic
+6224,Tyler Johnson,22,Finance,73354,21-04-2022,Bangladesh
+9827,Maria Chase,32,IT,119668,25-11-2015,Saint Kitts and Nevis
+2511,Dale Jones,45,Finance,94254,19-12-2018,Iraq
+3822,Jennifer Thompson,24,Sales,47601,03-04-2021,Comoros
+2409,Rodney Huffman,56,Finance,67867,21-09-2017,United States Virgin Islands
+7592,Jared Pope,57,Finance,51059,22-07-2024,Taiwan
+5815,Jason Kidd,52,IT,106275,04-07-2022,Myanmar
